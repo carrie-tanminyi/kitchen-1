@@ -4,18 +4,24 @@
   </a>
 </p>
 
-# Kitchen
+<h1 align="center"> Kitchen </h1>
 
-Make your design work delicious 🍽
+<p align="center">
+A suite of plugins to enhance designers
+</p>
+
+[![Alt text for your video](https://user-images.githubusercontent.com/26729145/45992322-c5844f00-c0bb-11e8-8088-7ba213acb9cb.png)](https://www.youtube.com/watch?v=_r-8iyO52Uw)
 
 ### Features
 
-- Upload design drafts and manage them on amazing [Yuque](https://yuque.com/)
-- Synchronize design material in the team
-- Easy to use manage iconfont on [iconfont of Alibaba](http://www.iconfont.cn/)
-- Fill layers with rich images and text
-- Manage own swatches
-- Generate awesome Ant Design React Components on Sketch canvas with dynamic modification capabilities
+- `Iconfont` Drag and apply the massive icons of  [iconfont of Alibaba](http://www.iconfont.cn/). Your own projects can be linked to kitchen as well.
+- `Design Upload` Upload the design to [Yuque](https://yuque.com/) and share your thoughts with the team members.
+- `Automated Padding` Use the functions of padding and spacing to draw flow chart in Sketch with a few steps.
+- `Data Filling` Fill high-quality images and texts with one click. And your own materials can be customized as well.
+- `Color Palette` Provide an official collection of color palette, and your own color palette can be managed.
+- `Symbol Sync` Import and export a good selection of symbol libraries. Share your exclusive symbol library.
+- `Component Generater`Automatically generate components that conform to the Ant Design specification in sketch.
+
 
 ### Installing
 
